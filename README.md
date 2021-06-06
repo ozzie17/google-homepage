@@ -1,0 +1,1 @@
+The current project is to create the Google homepage. I have used my HTML and CSS skills to create this hompage. I have a good understanding on the best practices to layout your HTML and CSS. 
